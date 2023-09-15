@@ -1,5 +1,13 @@
 # Telangana-Growth-Analysis-CodeBasics-
 
+**KPI**
+Created following KPI's using DAX - ( Mentioning some )
+1. Previous year revenue and count for Documents and E-stamp Challans.
+2. Revenue Growth %.
+3. Total Transport , Vehicle class.
+4. Previous year Vehicle sales.
+5. District Count by Sector.
+
 **Recommendations:**
 1. Invest in further enhancing the state's infrastructure, focusing on improving connectivity between cities and towns. This will not only boost local economies but also attract more investors.
 2. Promote and incentivize the adoption of renewable energy sources within the state. This move towards sustainability can reduce dependency on non-renewable energy, aligning with global environmental goals.
